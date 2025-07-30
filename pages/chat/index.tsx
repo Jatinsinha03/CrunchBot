@@ -302,10 +302,10 @@ export default function ChatPage() {
                 </svg>
               </button>
               <div className="w-8 h-8 bg-gradient-to-br from-indigo-500 to-purple-600 rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-lg">N</span>
+                <span className="text-white font-bold text-lg">C</span>
               </div>
               <span className="text-xl font-bold bg-gradient-to-r from-indigo-400 to-purple-400 bg-clip-text text-transparent">
-                NFT Analytics Chat
+                Crunchbot
               </span>
               {currentChatHeading && (
                 <span className="text-indigo-300 text-sm ml-4">
@@ -333,12 +333,12 @@ export default function ChatPage() {
                 <div className="w-16 h-16 bg-gradient-to-br from-indigo-500 to-purple-600 rounded-full flex items-center justify-center mx-auto mb-4">
                   <span className="text-white text-2xl">🤖</span>
                 </div>
-                <h2 className="text-2xl font-bold text-indigo-200 mb-2">Welcome to NFT Analytics</h2>
+                <h2 className="text-2xl font-bold text-indigo-200 mb-2">Welcome to Crunchbot</h2>
                 <p className="text-indigo-300 mb-6">Ask me anything about NFT collections, trading patterns, and market insights.</p>
                 <div className="text-sm text-indigo-400 space-y-2">
-                  <p>💡 Try: &quot;Show me BAYC sales trends&quot;</p>
-                  <p>💡 Try: &quot;What&apos;s the floor price of CryptoPunks?&quot;</p>
-                  <p>💡 Try: &quot;Analyze whale activity in Doodles&quot;</p>
+                  <p>💡 Try: &quot;Show me 0xabc... sales trends&quot;</p>
+                  <p>💡 Try: &quot;What&apos;s the floor price of 0xabc...?&quot;</p>
+                  <p>💡 Try: &quot;Analyze whale activity in 0xabc...&quot;</p>
                 </div>
               </div>
             </div>

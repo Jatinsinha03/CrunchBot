@@ -4,6 +4,9 @@
 
 ---
 
+### Live Link : [Live](https://crunchbot-five.vercel.app/)
+### Video Link : [Video](https://crunchbot-five.vercel.app/)
+
 ## ✨ Features
 
 - **Chat UI**: Type natural language queries like:
