@@ -5,7 +5,7 @@
 ---
 
 ### Live Link : [Live](https://crunchbot-five.vercel.app/)
-### Video Link : [Video](https://crunchbot-five.vercel.app/)
+### Video Link : [Video](https://youtu.be/KcX73TfiRtw)
 
 ## ✨ Features
 
@@ -48,3 +48,10 @@
 - **AI**: Google Gemini API
 - **Charts**: Chart.js, react-chartjs-2
 - **Markdown**: react-markdown
+
+## Screenshots
+
+<img width="2841" height="2210" alt="Screenshot 2025-07-31 at 01-25-11 " src="https://github.com/user-attachments/assets/bff725fe-750f-4349-a8c3-4fe5a107b119" />
+
+<img width="2841" height="3703" alt="Screenshot 2025-07-31 at 01-34-07 " src="https://github.com/user-attachments/assets/796abd16-61eb-460e-8c6d-43c1e7d35e5b" />
+
